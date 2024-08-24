@@ -1,0 +1,32 @@
+/*les declaration en css et leur differents styles*/
+H1,p{
+      font-size:18px;
+	  font-weight:bold;
+	  font-style:italic;
+	   color:blue;
+	  }
+body{
+       background-color:orange;	   
+	   }
+#li1{
+        color:red;
+        font-size:18px;
+       }
+.li1{
+      color:red;
+      font-size:20px; 
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
